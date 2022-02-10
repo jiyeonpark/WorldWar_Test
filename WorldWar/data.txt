@@ -1,0 +1,1 @@
+{"Stages":[],"ChallengeStages":[],"ExtremeStages":[],"ArcadeStages":[],"FirstGame":1,"SelectGraphic":0,"SelectController":1,"SelectLanguage":0,"SelectSoundFX":1.0,"SelectSoundBGM":1.0}

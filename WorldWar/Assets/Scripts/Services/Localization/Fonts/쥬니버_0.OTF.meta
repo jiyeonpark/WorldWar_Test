@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a0bc71b618a017e40bd76c90be84d708
+timeCreated: 1483492161
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Jrnaver
+  fontNames:
+  - Jrnaver
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

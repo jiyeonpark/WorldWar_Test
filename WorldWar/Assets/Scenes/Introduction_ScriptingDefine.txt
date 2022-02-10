@@ -1,0 +1,7 @@
+- Define contents -
+
+* DEBUG_BUILDTEST : FPS, F9 active, show log
+
+* DEBUG_INPUT : test input key active
+
+* BUILD_V1 : build version 1 update

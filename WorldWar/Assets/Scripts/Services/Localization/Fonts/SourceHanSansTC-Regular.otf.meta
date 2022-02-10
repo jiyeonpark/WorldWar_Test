@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2caeb5514ab4b164593c4a224c28cb50
+timeCreated: 1482805423
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Source Han Sans TC
+  fontNames:
+  - Source Han Sans TC
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
